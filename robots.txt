@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://M-Saleh.github.io/sitemap.xml 
